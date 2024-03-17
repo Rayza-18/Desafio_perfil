@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 body{
 background-color: hsl(0, 0%, 8%);
+    margin: 91px 5px;
 }
 main{
     margin-left: auto;
